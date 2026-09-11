@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mokshita240507/test4/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/mokshita240507/test4/tree/master/0050-powx-n) |
 ## Recursion
 |  |
