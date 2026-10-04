@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokshita240507/test4/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mokshita240507/test4/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mokshita240507/test4/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mokshita240507/test4/tree/master/0169-majority-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -60,8 +62,18 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mokshita240507/test4/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mokshita240507/test4/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
