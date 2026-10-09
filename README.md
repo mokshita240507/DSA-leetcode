@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/mokshita240507/test4/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/mokshita240507/test4/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mokshita240507/test4/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mokshita240507/test4/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mokshita240507/test4/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/mokshita240507/test4/tree/master/0238-product-of-array-except-self) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mokshita240507/test4/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mokshita240507/test4/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
